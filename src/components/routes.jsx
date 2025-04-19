@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Routes = () => {
+export function Routes() {
   return (
     <div>
-      
+      Routes
     </div>
   )
 }
 
-export default Routes
+
